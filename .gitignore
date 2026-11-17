@@ -1,0 +1,14 @@
+/.bundle
+/.ruby-lsp
+/log/*
+/tmp/*
+/storage/*
+/config/master.key
+/config/credentials/*.key
+/README*
+/.vscode
+/.github
+/public/assets
+/.DS_Store
+*.docx
+*.pdf
